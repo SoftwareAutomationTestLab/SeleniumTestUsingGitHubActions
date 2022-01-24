@@ -44,6 +44,4 @@ public class SimpleTest {
         driver.quit();
     System.out.println("closing the browser...");}
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
+
