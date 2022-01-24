@@ -10,7 +10,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 
-public class SimpleTest {
+public class myTest {
     WebDriver driver;
     @BeforeTest
             public void setup(){
