@@ -1,23 +1,13 @@
 package mypackage;
 
-import java.util.concurrent.TimeUnit;
-
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.openqa.selenium.chrome.ChromeOptions;
+
 import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-import org.openqa.selenium.*;
-import org.openqa.selenium.chrome.*;
-import org.openqa.selenium.remote.*;
-import java.io.File;
-import org.openqa.selenium.chrome.ChromeOptions;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
 
 
 public class SimpleTest {
