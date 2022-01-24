@@ -7,7 +7,7 @@
    
    
 
-   <class name="mypackage.SimpleTest"/>
+   <class name="mypackage.myTest"/>
 
 <!--<class name="Download.DownloadResults"/>-->
 </classes>
